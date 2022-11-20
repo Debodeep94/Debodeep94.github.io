@@ -49,9 +49,9 @@ body{
   width: 25px;
 }
 
-.wrapper .sidebar ul li:hover{
+/* .wrapper .sidebar ul li:hover{
   background-color: #5cb1dc;
-}
+} */
     
 .wrapper .sidebar ul li:hover a{
   color: rgb(12, 2, 82);
