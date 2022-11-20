@@ -65,19 +65,6 @@ body{
   display: flex;
 }
 
-/* .wrapper .sidebar .social_media a{
-  display: block;
-  width: 40px;
-  background: #89b8f6;
-  height: 40px;
-  line-height: 45px;
-  text-align: center;
-  margin: 0 5px;
-  color: #e1e7f0;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-} */
-
 .wrapper .main_content{
   width: 100%;
   margin-left: 200px;
