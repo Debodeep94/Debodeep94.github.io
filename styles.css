@@ -83,3 +83,14 @@ body{
 .wrapper .main_content .info div{
   margin-bottom: 20px;
 }
+
+div.scroll { 
+    margin:4px, 4px; 
+    padding:4px; 
+    background-color: #aaebf7; 
+    width: 200px; 
+    height: 310px; 
+    overflow-x: hidden; 
+    overflow-x: auto; 
+    text-align:justify; 
+}
